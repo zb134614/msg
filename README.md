@@ -1,4 +1,4 @@
-## 一只上进的小码农
+### 一只上进的小码农 👋
 
 # 💡skill
 
@@ -20,13 +20,14 @@
 <img width='50' height='50' title='electron' style='margin-left:15px;' src='skill/electron.png' />
 <img width='50' height='50' title='tailwind' style='margin-left:15px;' src='skill/tailwind.png' />
 <img width='50' height='50' title='git' style='margin-left:15px;' src='skill/git.png' />
+<img width='150' height='50' title='git' style='margin-left:15px;' src='skill/android-logo.svg' />
+
 </div>
 
 ### 后端
 
 <div style='display:flex'>
 <img width='50' height='50' title='npm' style='margin-left:15px;' src='skill/npm.png' />
-<img width='70' height='50' title='nest' style='margin-left:15px;' src='skill/nest.jpg' />
 <img width='50' height='50' title='mysql' style='margin-left:15px;' src='skill/mysql.png' />
 <img width='80' height='50' title='python' style='margin-left:15px;' src='skill/python.png' />
 <img width='80' height='50' title='java' style='margin-left:15px;' src='skill/java.png' />
