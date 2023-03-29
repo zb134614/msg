@@ -1,35 +1,105 @@
-### 一只上进的小码农 👋
+# Mogeko
 
-# 💡skill
+<!--
+**Mogeko/Mogeko** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-### 前端
+Here are some ideas to get you started:
 
-<div style='display:flex'>
-<img width='50' height='50' title='javaScript' style='margin-left:15px;' src='skill/js.png' />
-<img width='50' height='50' title='typeScript' style='margin-left:15px;' src='skill/ts.png' />
-<img width='50' height='50' title='html5' style='margin-left:15px;' src='skill/h5.png' />
-<img width='50' height='50' title='css3' style='margin-left:15px;' src='skill/css3.png' />
-<img width='70' height='50' title='less' style='margin-left:15px;' src='skill/less.png' />
-<img width='50' height='50' title='webpack' style='margin-left:15px;' src='skill/webpack.png' />
-<img width='50' height='50' title='rollup' style='margin-left:15px;' src='skill/rollup.png' />
-<img width='50' height='50' title='vite' style='margin-left:15px;' src='skill/vite.png' />
-<img width='50' height='50' title='vue' style='margin-left:15px;' src='skill/vue.png' />
-<img width='50' height='50' title='vue' style='margin-left:15px;' src='skill/uni.png' />
-<img width='40' height='50' title='pinia' style='margin-left:15px;' src='skill/pinia.png' />
-<img width='50' height='50' title='postCss' style='margin-left:15px;' src='skill/postCss.png' />
-<img width='50' height='50' title='electron' style='margin-left:15px;' src='skill/electron.png' />
-<img width='50' height='50' title='tailwind' style='margin-left:15px;' src='skill/tailwind.png' />
-<img width='50' height='50' title='git' style='margin-left:15px;' src='skill/git.png' />
-<img width='150' height='50' title='git' style='margin-left:15px;' src='skill/android-logo.svg' />
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+-->
 
-</div>
+<a href="https://github.com/mogeko#gh-light-mode-only">
+  <img align="right" width="460px" alt="GitHub Stats Card" src="https://github-readme-stats.vercel.app/api?username=mogeko&show_icons=true&include_all_commits=true&disable_animations=true#gh-light-mode-only">
+</a>
 
-### 后端
+<a href="https://github.com/mogeko#gh-dark-mode-only">
+  <img align="right" width="460px" alt="GitHub Stats Card" src="https://github-readme-stats.vercel.app/api?username=mogeko&show_icons=true&hide_border=true&include_all_commits=true&disable_animations=true&theme=dracula#gh-dark-mode-only">
+</a>
 
-<div style='display:flex'>
-<img width='50' height='50' title='npm' style='margin-left:15px;' src='skill/npm.png' />
-<img width='50' height='50' title='mysql' style='margin-left:15px;' src='skill/mysql.png' />
-<img width='80' height='50' title='python' style='margin-left:15px;' src='skill/python.png' />
-<img width='80' height='50' title='java' style='margin-left:15px;' src='skill/java.png' />
-</div>
+<!-- <picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=mogeko&show_icons=true&hide_border=true&include_all_commits=true&disable_animations=true&theme=dracula">
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=mogeko&show_icons=true&hide_border=true&include_all_commits=true&disable_animations=true">
+  <img align="right" width="480px" alt="GitHub Stats Card" src="https://github-readme-stats.vercel.app/api?username=mogeko&show_icons=true&hide_border=true&include_all_commits=true&disable_animations=true">
+</picture> -->
 
+
+我是 **郑州大学**毕业, 主修 **软件**. 我希望以后玩 **硬件** 方向发展.
+
+- :seedling: 我正在学习 ![badge_android] & ![badge_java].
+- :books: 今年计划学习 ![badge_ios] & ![badge_python].
+
+### :microscope: 技术和工具
+
+![skillicons](https://skillicons.dev/icons?i=html,css,js,ts,sass,tailwind,vue,java,py,vite,webpack,git,vscode,ps,github)
+
+
+
+
+<!-- Links -->
+[blog]: https://mogeko.github.io
+[e-mail]: mailto:zhengjunyi@live.com
+[github]: https://github.com/mogeko
+
+<!-- Skills -->
+
+[skills]: https://skillicons.dev/icons?i=html,css,js,ts,react,gatsby,nextjs,sass,tailwind,styledcomponents,graphql,jest,java,py,rust,php,c,cpp,elixir,latex,md,regex,nodejs,redis,postgres,git,eclipse,idea,visualstudio,vscode,vim,docker,bash,ps,ai,linux,bsd,github,gitlab,stackoverflow,azure,cloudflare
+
+<!-- badge Links -->
+[badge_android]: https://img.shields.io/badge/-android-4B275F?style=flat&logo=android&logoColor=ffffff
+[badge_ios]: https://img.shields.io/badge/-ios-4B275F?style=flat&logo=ios&logoColor=ffffff
+[badge_python]: https://img.shields.io/badge/-python-4B275F?style=flat&logo=python&logoColor=ffffff
+
+[badge_angular]: https://img.shields.io/badge/-Angular-DD0031?style=flat&logo=angular&logoColor=ffffff
+[badge_c]: https://img.shields.io/badge/-C-A8B9CC?style=flat&logo=c&logoColor=ffffff
+[badge_c-sharp]: https://img.shields.io/badge/-C%23-239120?style=flat&logo=c-sharp&logoColor=ffffff
+[badge_cpp]: https://img.shields.io/badge/-C++-00599C?style=flat&logo=c%2B%2B&logoColor=ffffff
+[badge_css3]: https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=ffffff
+[badge_dart]: https://img.shields.io/badge/-Dart-0175C2?style=flat&logo=dart&logoColor=ffffff
+[badge_docker]: https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=ffffff
+[badge_electron]: https://img.shields.io/badge/-Electron-47848F?style=flat&logo=electron&logoColor=ffffff
+[badge_elixir]: https://img.shields.io/badge/-Elixir-4B275F?style=flat&logo=elixir&logoColor=ffffff
+[badge_erlang]: https://img.shields.io/badge/-Erlang-A90533?style=flat&logo=erlang&logoColor=ffffff
+[badge_figma]: https://img.shields.io/badge/-Figma-f24e1e?style=flat&logo=figma&logoColor=ffffff
+[badge_flutter]: https://img.shields.io/badge/-Flutter-02569B?style=flat&logo=flutter&logoColor=ffffff
+[badge_freebsd]: https://img.shields.io/badge/-FreeBSD-AB2B28?style=flat&logo=freebsd&logoColor=ffffff
+[badge_gatsby]: https://img.shields.io/badge/-Gatsby-663399?style=flat&logo=gatsby&logoColor=ffffff
+[badge_git]: http://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=ffffff
+[badge_github]: http://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=ffffff
+[badge_go]: https://img.shields.io/badge/-Go-00ADD8?style=flat&logo=go&logoColor=ffffff
+[badge_graphql]: https://img.shields.io/badge/-GraphQl-E10098?style=flat&logo=graphql&logoColor=ffffff
+[badge_haskell]: https://img.shields.io/badge/-Haskell-5D4F85?style=flat&logo=haskell&logoColor=ffffff
+[badge_html5]: https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=ffffff
+[badge_hugo]: https://img.shields.io/badge/-Hugo-FF4088?style=flat&logo=hugo&logoColor=ffffff
+[badge_java]: https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=ffffff
+[badge_javascript]: https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=000000
+[badge_kotlin]: https://img.shields.io/badge/-Kotlin-0095D5?style=flat&logo=kotlin&logoColor=ffffff
+[badge_kubernetes]: https://img.shields.io/badge/-Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=ffffff
+[badge_linux]: https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=linux&logoColor=000000
+[badge_lua]: https://img.shields.io/badge/-Lua-2C2D72?style=flat&logo=lua&logoColor=ffffff
+[badge_mongodb]: https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=ffffff
+[badge_mysql]: https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=ffffff
+[badge_next-js]: https://img.shields.io/badge/-Next.js-000000?style=flat&logo=Next.js&logoColor=ffffff
+[badge_node-js]: https://img.shields.io/badge/-Node.js-339933?style=flat&logo=Node.js&logoColor=ffffff
+[badge_openstack]: https://img.shields.io/badge/-OpenStack-ED1944?style=flat&logo=openstack&logoColor=ffffff
+[badge_open-shift]: https://img.shields.io/badge/-Open%20Shift-EE0000?style=flat&logo=red-hat-open-shift&logoColor=ffffff
+[badge_perl]: https://img.shields.io/badge/-Perl-39457E?style=flat&logo=perl&logoColor=ffffff
+[badge_postgresql]: https://img.shields.io/badge/-PostgreSQL-336791?style=flat&logo=postgresql&logoColor=ffffff
+[badge_python]: https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=ffffff
+[badge_qt]: https://img.shields.io/badge/-Qt-41CD52?style=flat&logo=qt&logoColor=ffffff
+[badge_react]: https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=000000
+[badge_redis]: https://img.shields.io/badge/-Redis-DC382D?style=flat&logo=redis&logoColor=ffffff
+[badge_ruby]: https://img.shields.io/badge/-Ruby-CC342D?style=flat&logo=ruby&logoColor=ffffff
+[badge_rust]: https://img.shields.io/badge/-Rust-000000?style=flat&logo=rust&logoColor=ffffff
+[badge_sass]: https://img.shields.io/badge/-Sass-CC6699?style=flat&logo=sass&logoColor=ffffff
+[badge_scala]: https://img.shields.io/badge/-Scala-DC322F?style=flat&logo=scala&logoColor=ffffff
+[badge_swift]: https://img.shields.io/badge/-Swift-FA7343?style=flat&logo=swift&logoColor=ffffff
+[badge_typescript]: https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=ffffff
+[badge_vs-code]: http://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual%20studio%20code&logoColor=ffffff
+[badge_vue-js]: https://img.shields.io/badge/-Vue.js-4FC08D?style=flat&logo=vue-js&logoColor=ffffff
