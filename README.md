@@ -30,7 +30,7 @@ Here are some ideas to get you started:
 </picture> -->
 
 
-我是 **郑州大学**毕业, 主修 **软件**. 我希望以后玩 **硬件** 方向发展.
+我是 **郑州大学**毕业, 主修 **软件**. 我希望以后往 **硬件** 方向发展.
 
 - :seedling: 我正在学习 ![badge_android] & ![badge_java].
 - :books: 今年计划学习 ![badge_ios] & ![badge_python].
